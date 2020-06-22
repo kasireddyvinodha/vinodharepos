@@ -1,2 +1,2 @@
-# vinodharepos
-for coding in python
+$ docker build -t simple-flask-app:latest .
+
